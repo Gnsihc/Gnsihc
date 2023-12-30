@@ -1,4 +1,3 @@
-![](./resource/introduction.gif)
 
 # Hi there 👋
 ### Hello ,I'm Willie. Come from Taiwan(ROC).
@@ -18,7 +17,7 @@
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=Gnsihc&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gnsihc&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-<!--
+<!-- ![](./resource/introduction.gif)
 **Gnsihc/Gnsihc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
