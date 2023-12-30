@@ -1,4 +1,4 @@
-![](https://github.com/Gnsihc/Gnsihc/raw/master/resource/introduction.gif)
+![](https://github.com/Gnsihc/Gnsihc/blob/master/resource/introduction.gif?raw=true)
 
 <!--
 **Gnsihc/Gnsihc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
