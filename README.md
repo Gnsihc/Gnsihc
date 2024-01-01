@@ -1,6 +1,6 @@
 
 # Hi there 👋
-### Hello ,I'm Willie. Come from Taiwan(ROC).
+### Hello ,I'm Finn. Come from Taiwan(ROC).
 - I am currently a graduate student in Information engineering at NSYSU WCMC LAB (learning network and wireless/mobile communicaton)
 
 
